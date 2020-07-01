@@ -29,5 +29,7 @@
 			</c:forEach>
 		</ul>
 		
+		<br><br>
+		<a href="/">Back to Main Menu</a>
 	</body>
 </html>

@@ -2,12 +2,10 @@
 
 <html>
 	<body>
-		Hello World of Spring
+		${message}
 		<br><br>
-		Student name: ${param.studentName}
-		<br><br>
-		The message: ${message}
-		<hr>
 		<img src="${pageContext.request.contextPath}/resources/images/FairyPenguin.PNG"> 
+		<br><br>
+		<a href="/">Back to Main Menu</a>
 	</body>
 </html>

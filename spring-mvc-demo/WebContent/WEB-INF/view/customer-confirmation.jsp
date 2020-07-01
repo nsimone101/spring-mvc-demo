@@ -14,5 +14,7 @@
 		Postal Code: ${customer.postalCode}
 		<br><br>
 		Course Code: ${customer.courseCode}
+		<br><br>
+		<a href="/">Back to Main Menu</a>
 	</body>
 </html>
